@@ -47,9 +47,9 @@
 
 ---
 
-# 🏆 Final Report
+# 📝 Final Report
 
-## ✅ Problem
+## ⚠️ Problem
 Handwritten digit recognition using MNIST dataset.
 
 ---
@@ -62,13 +62,13 @@ Handwritten digit recognition using MNIST dataset.
 
 ---
 
-## ✅ Achievements
+## 🥇 Achievements
 - Achieved **99.55% Validation Accuracy** 🔥
 - Professional, clean, short, and modular code.
 
 ---
 
-## ✅ What's Special?
+## 💎 What's Special?
 - Short and understandable explanations.
 - Latest TensorFlow 2.x + Keras implementation.
 - Best practices followed like pros!
