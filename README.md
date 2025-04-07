@@ -1,4 +1,4 @@
-# 🧠 Digit Recognizer - MNIST Competition (99.52%+ Accuracy)
+# 🧠 Digit Recognizer - MNIST Competition (99.55%+ Accuracy)
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" width="600"/>
@@ -63,7 +63,7 @@ Handwritten digit recognition using MNIST dataset.
 ---
 
 ## ✅ Achievements
-- Achieved **99.52% Validation Accuracy** 🔥
+- Achieved **99.55% Validation Accuracy** 🔥
 - Professional, clean, short, and modular code.
 
 ---
