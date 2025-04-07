@@ -15,8 +15,6 @@
 
 # 👨‍💻 Author: Azhar Saleem
 
-# ☎ Contct me
-
 | Platform        | Badge Link                                                                                                 | Profile URL                          |
 |-----------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------|
 | GitHub          | [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/azharsaleem18) | https://github.com/azharsaleem18     |
